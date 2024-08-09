@@ -1,0 +1,178 @@
+{
+  "components": {
+    "agendasave": {
+      "chooseName": "Choose a name"
+    },
+    "button": {
+      "back": "Back"
+    },
+    "createNew": {
+      "createNewCard": "Create New Card",
+      "makeGlobal": "Make card global for all users",
+      "selectCat": "Choose category",
+      "selectCategory": "Please select a category",
+      "uploadImg": "Please upload an image"
+    },
+    "createNewDialog": {
+      "newCard": "New Card",
+      "newFolder": "New Folder",
+      "newSeq": "New Sequence"
+    },
+    "daySwitcher": {
+      "addCard": "Add Card",
+      "editPage": "Edit This Day",
+      "exitEdit": "Exit Edit Mode",
+      "loadDay": "Load Day",
+      "saveDay": "Save Day"
+    },
+    "folder": {
+      "catName": "Category Name",
+      "createCat": "Create New Category"
+    },
+    "header": {
+      "areYouSureCard": "Are you sure you want to delete this card? This action is irreversible",
+      "areYouSureSeq": "Are you sure you want to delete this sequence? This action is irreversible",
+      "deleteCard": "Delete Card",
+      "deleteSeq": "Delete Sequence",
+      "edit": "Edit"
+    },
+    "nav": {
+      "Agenda": "Agenda",
+      "Cards": "Cards",
+      "Home": "Home",
+      "Sequences": "Sequences"
+    },
+    "popup": {
+      "howReplace": "How do you want to replace the image for this card?",
+      "replaceImg": "Do you want to replace the image for this card?"
+    }
+  },
+  "language": "English",
+  "screens": {
+    "HomeScreen": {
+      "agenda": "Agenda di",
+      "hi": "Hi",
+      "savedWords": "Saved Words",
+      "seeAll": "See all",
+      "selectPatient": "Select patient",
+      "therapy": "Therapy of",
+      "thisWeek": "For this week",
+      "noCaregivers": "No caregiver assigned"
+    },
+    "agenda": {
+      "addCardsAgendaScreen": {
+        "addItem": "Add Item",
+        "title": "Add a card"
+      },
+      "addSeqAgendaScreen": {
+        "placeholder": "Search a sequence",
+        "question1": "Do you want to add the sequence",
+        "question2": "to your agenda?",
+        "title": "Add Sequence to Agenda"
+      },
+      "agendaScreen": {
+        "fri": "Fri",
+        "longPress": "Long press to rearrange",
+        "mon": "Mon",
+        "noActivities": "No actitivites on this day",
+        "sat": "Sat",
+        "sun": "Sun",
+        "thu": "Thu",
+        "tue": "Tue",
+        "wed": "Wed"
+      }
+    },
+    "auth": {
+      "forgotPasswordScreen": {
+        "backTo": "Back to login",
+        "forgotP": "Forgot password",
+        "sendReset": "Send reset email"
+      },
+      "loginScreen": {
+        "alreadyHaveA": "Already have an account?",
+        "createAccount": "Create an account",
+        "dontHaveAccount": "Don't have an account yet?",
+        "forgotMyP": "I forgot my password",
+        "welcome": "Welcome Back!"
+      },
+      "registerScreen": {
+        "confirmPass": "Confirm password",
+        "fullName": "Full name",
+        "nameLong": "Name is too long",
+        "nameShort": "Name is too short",
+        "pass6Chars": "Password must be at least 6 characters long",
+        "passDontMatch": "Passwords don't match",
+        "passwordLong": "Password is too long",
+        "register": "Register"
+      }
+    },
+    "card": {
+      "cardsScreen": {
+        "all": "All",
+        "cards": "Cards",
+        "folders": "Folders"
+      },
+      "editCardScreen": {
+        "RecVoice": "Record new Voiceover",
+        "cardSettings": "Card Settings",
+        "delVoice": "Delete Voiceover",
+        "playing": "Playing",
+        "stopRec": "Stop recording"
+      }
+    },
+    "landingScreen": {
+      "alreadyHaveA": "I already have an account",
+      "contactUs": "Contact us",
+      "getStarted": "Get started",
+      "try": "Let's Try ",
+      "welcome": "Welcome!"
+    },
+    "sequence": {
+      "SequencesScreen": {
+        "sequences": "Sequences"
+      },
+      "addCardsSequenceScreen": {
+        "savedCards": "Saved Cards",
+        "searchCard": "Search a Card"
+      },
+      "createSequenceDrawer": {
+        "createSeq": "Create Sequence"
+      }
+    },
+    "settingsScreen": {
+      "advancedSett": "Advanced settings",
+      "areYouSure": "This will delete your account and all your data. This action is irreversible. Are you sure?",
+      "backToSett": "Back to settings",
+      "delAccount": "Delete account",
+      "editPatients": "Edit patients",
+      "signOut": "Sign out"
+    },
+    "therapist": {
+      "assignTherapistScreen": {
+        "yourselfAsTh": "You have assigned yourself as the therapist for this user"
+      }
+    }
+  },
+  "standards": {
+    "addCard": "Add card",
+    "addSeq": "Add Sequence",
+    "cancel": "Cancel",
+    "card": "card",
+    "cardCat": "Card Category",
+    "cardName": "Card Name",
+    "changeImg": "Change Image",
+    "chooseGallery": "Choose from Gallery",
+    "confirm": "Confirm",
+    "create": "Create",
+    "delete": "Delete",
+    "saveChanges": "Save Changes",
+    "savedSeq": "Saved Sequences",
+    "search": "Search",
+    "searchCard": "Search a card",
+    "seqName": "Sequence Name",
+    "sequence": "sequence",
+    "takePhoto": "Take a Photo",
+    "wantAddCard": "Do you want to add this card?",
+    "writeName": "Write a new name"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "components": {
+    "agendasave": {
+      "chooseName": "Scegli un nome"
+    },
+    "button": {
+      "back": "Indietro"
+    },
+    "createNew": {
+      "createNewCard": "Crea Nuova Carta",
+      "makeGlobal": "Rendi la carta globale per tutti gli utenti",
+      "selectCat": "Scegli categoria",
+      "selectCategory": "Selezionare una categoria",
+      "uploadImg": "Caricare una immagine"
+    },
+    "createNewDialog": {
+      "newCard": "Nuova Carta",
+      "newFolder": "Nuova Cartella",
+      "newSeq": "Nuova Sequenza"
+    },
+    "daySwitcher": {
+      "addCard": "Aggiungi Carta",
+      "editPage": "Modifica Giorno",
+      "exitEdit": "Esci da Modifica",
+      "loadDay": "Carica Giorno",
+      "saveDay": "Salva Giorno"
+    },
+    "folder": {
+      "catName": "Nome Categoria",
+      "createCat": "Crea Nuova Categoria"
+    },
+    "header": {
+      "areYouSureCard": "Sei sicuro di voler eliminare questa carta? Questa azione è irreversibile",
+      "areYouSureSeq": "Sei sicuro di voler eliminare questa sequenza? Questa azione è irreversibile",
+      "deleteCard": "Elimina Carta",
+      "deleteSeq": "Elimina Sequenza",
+      "edit": "Modifica"
+    },
+    "nav": {
+      "Agenda": "Agenda",
+      "Cards": "Carte",
+      "Home": "Home",
+      "Sequences": "Sequenze"
+    },
+    "popup": {
+      "howReplace": "Come vuoi sostituire l'immagine per questa carta?",
+      "replaceImg": "Vuoi sostituire l'immagine per questa carta?"
+    }
+  },
+  "language": "Italian",
+  "screens": {
+    "HomeScreen": {
+      "agenda": "Agenda di",
+      "hi": "Ciao",
+      "savedWords": "Parole Salvate",
+      "seeAll": "Vedi tutte",
+      "selectPatient": "Seleziona paziente",
+      "therapy": "Terapia di",
+      "thisWeek": "Questa settimana",
+      "noCaregivers": "Non hai nessun paziente assegnato"
+    },
+    "agenda": {
+      "addCardsAgendaScreen": {
+        "addItem": "Aggiungi Elemento",
+        "title": "Aggiungi una carta"
+      },
+      "addSeqAgendaScreen": {
+        "placeholder": "Cerca una sequenza",
+        "question1": "Vuoi aggiungere la sequenza ",
+        "question2": "alla tua agenda?",
+        "title": "Aggiungi Sequenza in Agenda"
+      },
+      "agendaScreen": {
+        "fri": "Ven",
+        "longPress": "premere a lungo per ordinare",
+        "mon": "Lun",
+        "noActivities": "Nessuna attività in questo giorno",
+        "sat": "Sab",
+        "sun": "Dom",
+        "thu": "Gio",
+        "tue": "Mar",
+        "wed": "Mer"
+      }
+    },
+    "auth": {
+      "forgotPasswordScreen": {
+        "backTo": "Torna a login",
+        "forgotP": "Password dimenticata",
+        "sendReset": "Invia email di reset"
+      },
+      "loginScreen": {
+        "alreadyHaveA": "Hai già un account?",
+        "createAccount": "Crea un account",
+        "dontHaveAccount": "Non hai ancora un account?",
+        "forgotMyP": "Ho dimenticato la password",
+        "welcome": "Bentornato!"
+      },
+      "registerScreen": {
+        "confirmPass": "Conferma password",
+        "fullName": "Nome intero",
+        "nameLong": "Nome troppo lungo",
+        "nameShort": "Nome troppo corto",
+        "pass6Chars": "La password deve essere lunga almeno 6 caratteri",
+        "passDontMatch": "Le password sono diverse",
+        "passwordLong": "Password troppo lunga",
+        "register": "Registrati"
+      }
+    },
+    "card": {
+      "cardsScreen": {
+        "all": "Tutte",
+        "cards": "Carte",
+        "folders": "Cartelle"
+      },
+      "editCardScreen": {
+        "RecVoice": "Nuova Registrazione",
+        "cardSettings": "Impostazioni Carta",
+        "delVoice": "Elimina Registrazione",
+        "playing": "In riproduzione",
+        "stopRec": "Smetti di registrare"
+      }
+    },
+    "landingScreen": {
+      "alreadyHaveA": "Ho già un account",
+      "contactUs": "Contattaci",
+      "getStarted": "Iniziamo",
+      "try": "Proviamo",
+      "welcome": "Benvenuto!"
+    },
+    "sequence": {
+      "SequencesScreen": {
+        "sequences": "Sequenze"
+      },
+      "addCardsSequenceScreen": {
+        "savedCards": "Carte Salvate",
+        "searchCard": "Cerca una Carta"
+      },
+      "createSequenceDrawer": {
+        "createSeq": "Crea Sequenza"
+      }
+    },
+    "settingsScreen": {
+      "advancedSett": "Impostazioni avanzate",
+      "areYouSure": "Verranno eliminati il tuo account e tutti i tuoi dati. Questa azione è irreversibile. Sei sicuro?",
+      "backToSett": "Torna alle impostazioni",
+      "delAccount": "Elimina account",
+      "editPatients": "Modifica pazienti",
+      "signOut": "Disconnetti"
+    },
+    "therapist": {
+      "assignTherapistScreen": {
+        "yourselfAsTh": "Hai assegnato te stesso come terapista di questo utente"
+      }
+    }
+  },
+  "standards": {
+    "addCard": "Aggiungi carta",
+    "addSeq": "Aggiungi Sequenza",
+    "cancel": "Annulla",
+    "card": "carta",
+    "cardCat": "Categoria",
+    "cardName": "Nome Carta",
+    "changeImg": "Cambia Immagine",
+    "chooseGallery": "Scegli dalla Galleria",
+    "confirm": "Conferma",
+    "create": "Crea",
+    "delete": "Elimina",
+    "saveChanges": "Salva Cambiamenti",
+    "savedSeq": "Sequenze Salvate",
+    "search": "Cerca",
+    "searchCard": "Cerca una carta",
+    "seqName": "Nome Sequenza",
+    "sequence": "sequenza",
+    "takePhoto": "Scatta Foto",
+    "wantAddCard": "Vuoi aggiungere questa carta?",
+    "writeName": "Scrivi un nuovo nome"
+  }
+}
