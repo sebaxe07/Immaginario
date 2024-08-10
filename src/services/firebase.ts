@@ -6,9 +6,9 @@ import { Firestore, getFirestore, initializeFirestore } from 'firebase/firestore
 import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage'
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyA2vL90EKNQSthZvpWul19pxR8ZB5KTLfw',
+  apiKey: '',
   authDomain: 'immaginario-italia.firebaseapp.com',
-  projectId: 'immaginario-italia',
+  projectId: 'imsmaginario-italia',
   storageBucket: 'immaginario-italia.appspot.com',
   messagingSenderId: '1022628546726',
   appId: '1:1022628546726:web:85d82a421dc663f0ca4c67',
